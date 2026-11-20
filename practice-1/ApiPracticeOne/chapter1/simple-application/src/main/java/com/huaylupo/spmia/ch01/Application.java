@@ -34,7 +34,7 @@ public class Application {
 		return String.format("{\"message\":\"Hello %s %s\"}",request.getFirstName(), request.getLastName());
 	} 
 
-    //========================== Added by Henry==================================
+    //========================== Added by Henry as Test==================================
 
 	     /* Step 4. Enhance Your Program
           Add two more GET endpoints to enhance your program. Use the following two GET endpoints: 
